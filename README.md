@@ -1,1 +1,2 @@
-# Retail_sales_warehouseEnd-to-end SQL Data Warehouse project using Snowflake, TPCDS dataset, Bronze-Silver-Gold architecture, SCD Type 2, and performance optimization.
+# Retail_sales_warehouse
+End-to-end SQL Data Warehouse project using Snowflake, TPCDS dataset, Bronze-Silver-Gold architecture, SCD Type 2, and performance optimization.
